@@ -1,10 +1,12 @@
 [package]
 name = "toip"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Arthurdw <dev@arthurdw.com>"]
 description = "Get the top ip addresses from a log file"
 license = "MIT"
+repository = "https://github.com/Arthurdw/toip"
+readme = "README.md"
 
 [dependencies]
 chrono = "0.4.23"
